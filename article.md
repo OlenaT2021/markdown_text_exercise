@@ -1,7 +1,7 @@
 The global economy has yet to turn the corner
 
 The World Bank
-2,348,474 followers
+2 348 474 followers
 
 
 January 17, 2024
@@ -26,7 +26,7 @@ When commodity price increases boost growth by 1 percentage point, for example, 
 
 The result is a chronic drag on their growth prospects. This drag can be reduced by, among other things, establishing fiscal frameworks to discipline government spending, adopting flexible exchange-rate systems, and avoiding restrictions on international movements of capital. If these policy measures were instituted as a package, commodity-exporting developing economies would achieve an increase in per capita GDP growth of one percentage point every 4 to 5 years. 
 
-So far, the 2020s have been a period of broken promises. Governments have fallen short of the “unprecedented” goals they promised to meet by 2030 “to end poverty and hunger everywhere; to combat inequalities within and among countries; … and to ensure the lasting protection of the planet and its natural resources.” But 2030 is still over a half-decade away. That is long enough for emerging markets and developing economies to regain lost ground.  Governments acting immediately to implement the necessary policies would create cause for everyone to celebrate. 
+So far, the 2020-s have been a period of broken promises. Governments have fallen short of the “unprecedented” goals they promised to meet by 2030 “to end poverty and hunger everywhere; to combat inequalities within and among countries; … and to ensure the lasting protection of the planet and its natural resources.” But 2030 is still over a half-decade away. That is long enough for emerging markets and developing economies to regain lost ground.  Governments acting immediately to implement the necessary policies would create cause for everyone to celebrate. 
 
  
 
