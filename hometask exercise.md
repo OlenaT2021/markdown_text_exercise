@@ -3,7 +3,7 @@ To open and log in the NAIIS application, follow the steps below:
 1. Open any internet browser (i.e. Internet Explorer, Firefox, etc.).
 2. Type in http://unfccc.int/7627 on the browser’s address bar. 
 3. Press **Enter key**. The non-Annex I Greenhouse Gas Inventories web page appears.
-4. Select NAIIS Web Application image on the right hand side of the screen (figure 1, pointer 1). The log-in page displays (figure 2). 
+4. Select NAIIS Web Application image on the right hand side of the screen (figure 1). The log-in page displays (figure 2). 
 5. Enter the username and password and then select **Sign in**. 
 
 ![Figure 1](./images/figure1.jpg)
@@ -32,10 +32,10 @@ _Figure 4_
 
 1. Log in as NFP or PM.
 2. Hover **Submission Management** and then select **Work on Inventories**. The initial screen displays. It includes the following boxes: 
-   * Existing Inventory (with all options) (pointer a).
-   * General properties – include the name, submission year, creator, creation date, status, updater and submission date (pointer b).
-   * Sectors (pointer c).
-   * Inventory years (pointer d).
+   * Existing Inventory with all options (figure 5a).
+   * General properties – include the name, submission year, creator, creation date, status, updater and submission date (figure 5b).
+   * Sectors (figure 5c).
+   * Inventory years (figure 5d).
 
 ![igure 5](./images/figure5.jpg)
 _Figure 5_
