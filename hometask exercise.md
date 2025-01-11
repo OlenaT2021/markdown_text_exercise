@@ -33,7 +33,7 @@ _Figure 4_
 1. Log in as NFP or PM.
 2. Hover **Submission Management** and then select **Work on Inventories**. The initial screen displays. It includes the following boxes: 
    * Existing Inventory with all options (figure 5a).
-   * General properties – include the name, submission year, creator, creation date, status, updater and submission date (figure 5b).g
+   * General properties – include the name, submission year, creator, creation date, status, updater and submission date (figure 5b).
    * Sectors (figure 5c).
    * Inventory years (figure 5d).
 
@@ -58,7 +58,7 @@ _Figure 6_
 5. Press the enter key. New user name is saved in the respective table of the NAIIS database.
 
 -------------------------------------------------------------------------------------
-**_Note:_** The sytem generates new user names as default [Non-Annex I Party name] + “newUser” (e.g. UgandanewUser, PhilippinesnewUser, ArgentinanewUser).
+**_Info:_** The sytem generates new user names as default [Non-Annex I Party name] + “newUser” (e.g. UgandanewUser, PhilippinesnewUser, ArgentinanewUser).
 
 -------------------------------------------------------------------------------------
 ![Figure 7](./images/figure7.jpg)
@@ -103,7 +103,6 @@ To delete a node, follow the steps below:
 
 When deleting user-defined nodes, delete each child node first. Then, delete the parent node that was added.  
 If you delete the parent node before the child nodes, an error message is shown. The nodes will then disappear from the tree, but are not removed from the database. In such situation you must click **Reload grid** icon at the bottom of the navigation tree and the child nodes will reappear on the tree.  
-
 Any data in the grid for the user-added nodes is also deleted from the database when the nodes are removed.
 
 ## Delete subnodes
@@ -126,7 +125,7 @@ When you click one of the Sectors or Subsectors on the left-hand side navigation
 Select one of the **Export** buttons. The system will then generate an Excel export file.
 
 --------------------------------------------------------------------------------------
-**_Note_**
+**_Note:_**
 To see the the file that has been exported, go to **My Data Export** section. 
 
 Select fileLink **File** to open or save the file.
@@ -140,7 +139,7 @@ To import data, follow the steps below:
 2. Choose the file to be imported.
 3. Select **Submit**. A message displays to confirm successful completion of import. 
 
-**_Warning!_** If the type of the file selected for import is incorrect, an error message displays (only *.xml and *.xlsx files are allowed).
+**_Warning:_** Only *.xml and *.xlsx files are allowed. If the type of the file selected for import is incorrect, an error message displays.
 
 Select **Submit Query** to start the data import process.
 Select **My Data Import** to open a list of imported data. You can find it on the left-hand side navigation tree.
