@@ -33,7 +33,7 @@ _Figure 4_
 1. Log in as NFP or PM.
 2. Hover **Submission Management** and then select **Work on Inventories**. The initial screen displays. It includes the following boxes: 
    * Existing Inventory with all options (figure 5a).
-   * General properties – include the name, submission year, creator, creation date, status, updater and submission date (figure 5b).
+   * General properties – include the name, submission year, creator, creation date, status, updater and submission date (figure 5b).g
    * Sectors (figure 5c).
    * Inventory years (figure 5d).
 
@@ -58,7 +58,7 @@ _Figure 6_
 5. Press the enter key. New user name is saved in the respective table of the NAIIS database.
 
 -------------------------------------------------------------------------------------
-**_Note:_** The ssytem generates new user name(s) as default [Non-Annex I Party name] + “newUser” (e.g. UgandanewUser, PhilippinesnewUser, ArgentinanewUser).
+**_Note:_** The sytem generates new user names as default [Non-Annex I Party name] + “newUser” (e.g. UgandanewUser, PhilippinesnewUser, ArgentinanewUser).
 
 -------------------------------------------------------------------------------------
 ![Figure 7](./images/figure7.jpg)
@@ -78,9 +78,9 @@ To view a user, follow the steps below:
 _Figure 8_
 
 ## Add new nodes
-New nodes, for example, can be added to the navigation tree in order to add either a category, a fluorinated gas (Fgas), a fuel, a livestock type, or a subdivision in the LULUCF sector.
+You can add new nodes to the navigation tree to add either a category, a fluorinated gas (Fgas), a fuel, a livestock type, or a subdivision in the LULUCF sector.
 
-User-defined items can be added for:
+You can add user-defined items for:
    * Categories indicated as "Other (please specify)"
    * LULUCF subdivision
    * User-defined fuels
@@ -89,7 +89,7 @@ To add a new child node (both for a pre-defined or a user-defined item), follow 
 1. Right click the parent node.
 2. Select **Add new child node**. 
 
-**_Note:_** The parent nodes, where a child node can be added, are highlighted in orange.
+**_Note:_** The parent nodes where a child node can be added are highlighted in orange.
 
 ## Delete nodes – user defined nodes
 
@@ -101,10 +101,10 @@ To delete a node, follow the steps below:
 
 **_Warning:_** 
 
-When deleting user-defined nodes, delete each child node first. Then, delete the parent node that was added. If a user deletes the parent node before the child nodes, an error message is shown. The nodes will then disappear from the tree. But the nodes are not removed from the database. So the user must click **Reload grid** icon at the bottom of the navigation tree.
+When deleting user-defined nodes, delete each child node first. Then, delete the parent node that was added.  
+If you delete the parent node before the child nodes, an error message is shown. The nodes will then disappear from the tree, but are not removed from the database. In such situation you must click **Reload grid** icon at the bottom of the navigation tree and the child nodes will reappear on the tree.  
 
-After doing so, the child nodes will reappear on the tree. Any data in the grid for the user-added nodes is also deleted from the database when the nodes are removed.
-
+Any data in the grid for the user-added nodes is also deleted from the database when the nodes are removed.
 
 ## Delete subnodes
 To delete subnodes, follow the steps below:
@@ -122,8 +122,8 @@ There are three options available to export files:
 2. **Export selected sector / subsector**. It allows to expoprt all data of the current selected grid and the sub sectors.
 3. **Export all data entry grids**/ It allows to export all data entry grids.
 
-Once clicked one of the Sector’s or sub sectors’ on the left-hand side navigation tree, three Export buttons will appear on the middle of the screen.
-Select one of the **Export** buttons. The system will then generate an excel export file.
+When you click one of the Sectors or Subsectors on the left-hand side navigation tree, three Export buttons will appear in the middle of the screen.
+Select one of the **Export** buttons. The system will then generate an Excel export file.
 
 --------------------------------------------------------------------------------------
 **_Note_**
@@ -134,11 +134,10 @@ Select fileLink **File** to open or save the file.
 --------------------------------------------------------------------------------------
 
 ## Excel/XML data import
-The data import tab allows the user to import data into the system with the use of an XML or Excel file.
 
 To import data, follow the steps below:
 1. Select **Browse…** (or **Choose file** for Chrome users).
-2. Chooe the file to be imported.
+2. Choose the file to be imported.
 3. Select **Submit**. A message displays to confirm successful completion of import. 
 
 **_Warning!_** If the type of the file selected for import is incorrect, an error message displays (only *.xml and *.xlsx files are allowed).
