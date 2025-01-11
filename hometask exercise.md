@@ -40,10 +40,10 @@ _Figure 4_
 ![igure 5](./images/figure5.jpg)
 _Figure 5_
 
-## How to add user
-**_Note_**: This function is ONLY available for NFP’s and PM’s!
+## How to add a user
+**_Note_**: This function is ONLY available for NFPs and PMs!
 
-To add user, follow the steps below:
+To add a user, follow the steps below:
 1. Log in as NFP or PM.
 2. Hover **Users Management** and then select **Users Administration** (figure 6). The Users Administration screen opens.
 
@@ -64,9 +64,12 @@ _Figure 6_
 ![Figure 7](./images/figure7.jpg)
 _Figure 7_
 
-## View user
+## View a user
+
 This function enables NFP and PM to view all users of their country.
-To view user, follow the steps below:
+**_Note_**: This function is ONLY available for NFPs and PMs!
+
+To view a user, follow the steps below:
 1. Log in as NFP or PM.
 2. Hover **Users Management** and then select **Users Administration**. The Users Administration screen opens. 
 3. Select the respective row. All information of the selected user displays on the General Properties, Sector and Role boxes.
